@@ -1,10 +1,10 @@
-package com.example.convidados
+package com.example.guests
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.ViewModelProvider
-import com.example.convidados.databinding.ActivityGuestFormBinding
+import com.example.guests.databinding.ActivityGuestFormBinding
 
 class GuestFormActivity : AppCompatActivity(), View.OnClickListener {
 

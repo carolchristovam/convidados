@@ -1,4 +1,4 @@
-package com.example.convidados
+package com.example.guests
 
 import org.junit.Test
 
