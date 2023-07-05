@@ -1,4 +1,4 @@
-package com.example.guests
+package com.example.convidados
 
 import android.content.Intent
 import android.os.Bundle
@@ -10,7 +10,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
-import com.example.guests.databinding.ActivityMainBinding
+import com.example.convidados.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
